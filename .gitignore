@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+DATA/intelligence_platform.db
+
+.DS_Store
+
+.idea/
+
+*.log
+
+DATA/*.backup.csv
